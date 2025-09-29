@@ -1,0 +1,4 @@
+move-token/
+├── Move.toml
+└── sources/
+    └── MyToken.move
